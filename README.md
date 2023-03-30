@@ -16,7 +16,13 @@ Then, you can install manifest as usual like:
 scoop install <manifest>
 ```
 
-## manifests from other buckets
+## Manifests
+
+| name | description | homepage |
+|-|-|-|
+| keyswap | KeySwap for XP | http://www.asahi-net.or.jp/~ee7k-nsd/ |
+
+## Manifests from other buckets
 
 - https://github.com/jfut/scoop-jfut Unlicense
   - clnch: [ClaftLaunch](https://sites.google.com/site/craftware/clnch)
@@ -25,10 +31,8 @@ scoop install <manifest>
 - https://github.com/ycrack/scoop-ycrack Unlicense
   - bzeditor: [Bz](https://gitlab.com/devill.tamachan/binaryeditorbz)
 
-
 ## TODO
 
 - afxw
   - C/Migemo
 - Hidemaru
-- KeySwap
