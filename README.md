@@ -7,9 +7,10 @@ yak1ex's personal bucket for [Scoop](https://scoop.sh), the Windows command-line
 To add this bucket, run
 
 ```powershell
-scoop bucket add <bucketname> https://github.com/yak1ex/scoop-bucket`
+scoop bucket add yak1ex https://github.com/yak1ex/scoop-bucket
 ```
 
+Note that the bucket name `yak1ex` is assumed in some manifests.
 Then, you can install manifest as usual like:
 
 ```powershell
