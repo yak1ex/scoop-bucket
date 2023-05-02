@@ -18,9 +18,10 @@ scoop install <manifest>
 
 ## Manifests
 
-| name | description | homepage |
-|-|-|-|
-| keyswap | KeySwap for XP | http://www.asahi-net.or.jp/~ee7k-nsd/ |
+| Name | Description | Homepage | Notes |
+|-|-|-|-|
+| hidemaru | Hidemaru Edtitor | https://hide.maruo.co.jp/software/hidemaru.html | with portable kit |
+| keyswap | KeySwap for XP | http://www.asahi-net.or.jp/~ee7k-nsd/ | |
 
 ## Manifests from other buckets
 
@@ -35,4 +36,3 @@ scoop install <manifest>
 
 - afxw
   - C/Migemo
-- Hidemaru
