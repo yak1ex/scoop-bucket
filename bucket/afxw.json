@@ -57,7 +57,7 @@
             "$temp+=(New-Object System.IO.StreamReader($stream, $encoding)).ReadToEnd()",
             "return $temp"
         ],
-        "regex": "v (?<version1>\\d+)\\.(?<version2>\\d+)(.|\\n)*?bregonig.dll Ver\\.(?<bversion1>\\d+)\\.(?<bversion2>\\d+)(.|\\n)",
+        "regex": "<div id=\"mainbox\">(.|\\n)*?v (?<version1>\\d+)\\.(?<version2>\\d+)(.|\\n)*?bregonig.dll Ver\\.(?<bversion1>\\d+)\\.(?<bversion2>\\d+)(.|\\n)",
         "replace": "${version1}.${version2}-${bversion1}.${bversion2}"
     },
     "autoupdate": {
