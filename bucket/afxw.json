@@ -46,6 +46,9 @@
         "New-Item -Type HardLink -Target \"$dir\\bregonig\\$arch\\bregonig.dll\" -Path \"$dir\\bregonig.dll\" | Out-Null"
     ],
     "suggest": {
+        "afxbkmk": "afxbkmk",
+        "amkln": "amkln",
+        "amksc": "amksc",
         "C/Migemo": "cmigemo"
     },
     "checkver": {
