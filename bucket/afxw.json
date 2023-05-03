@@ -53,6 +53,9 @@
         "AFXW.INI",
         "AFXW.KEY"
     ],
+    "suggest": {
+        "C/Migemo": "cmigemo"
+    },
     "checkver": {
         "script": [
             "# akt_afxw.html is written in Shift_JIS but Content-Type is missing in response headers, so output is garbled. We can extract version information anyway.",
