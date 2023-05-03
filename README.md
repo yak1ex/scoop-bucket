@@ -18,16 +18,16 @@ scoop install <manifest>
 
 ## Manifests
 
-| Name | Description | Homepage | Notes |
+| Name | Description | Notes | Homepage |
 |-|-|-|-|
-| afxbkmk | CUI app to handle bookmark for afxw | http://akt.d.dooo.jp/akt_afxw.html | |
-| afxw | 2-screen filer for keyboard users | http://akt.d.dooo.jp/akt_afxw.html | with [bregonig](http://k-takata.o.oo7.jp/mysoft/bregonig.html) |
-| amkln | CUI app to create hardlinks/junctions | http://akt.d.dooo.jp/akt_jnk.html | |
-| amksc | CUI app to create shortcuts | http://akt.d.dooo.jp/akt_jnk.html | |
-| cmigemo | C/Migemo | https://www.kaoriya.net/software/cmigemo/ | cp932 dictionary is used |
-| hidemaru | Hidemaru Edtitor | https://hide.maruo.co.jp/software/hidemaru.html | with portable kit |
-| keyswap | KeySwap for XP | http://www.asahi-net.or.jp/~ee7k-nsd/ | |
-| yaksetup | YakSetup PS module | https://github.com/yak1ex/configurator/tree/master/bootstrap | my own PS module |
+| afxbkmk | CUI app to handle bookmark for afxw | | http://akt.d.dooo.jp/akt_afxw.html |
+| afxw | 2-screen filer for keyboard users | with [bregonig](http://k-takata.o.oo7.jp/mysoft/bregonig.html) | http://akt.d.dooo.jp/akt_afxw.html |
+| amkln | CUI app to create hardlinks/junctions | | http://akt.d.dooo.jp/akt_jnk.html |
+| amksc | CUI app to create shortcuts | | http://akt.d.dooo.jp/akt_jnk.html |
+| cmigemo | C/Migemo | cp932 dictionary is used | https://www.kaoriya.net/software/cmigemo/ |
+| hidemaru | Hidemaru Edtitor | with portable kit | https://hide.maruo.co.jp/software/hidemaru.html |
+| keyswap | KeySwap for XP | | http://www.asahi-net.or.jp/~ee7k-nsd/ |
+| yaksetup | YakSetup PS module | my own PS module | https://github.com/yak1ex/configurator/tree/master/bootstrap |
 
 ## Manifests from other buckets
 
