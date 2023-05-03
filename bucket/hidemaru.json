@@ -77,7 +77,7 @@
     "checkver": {
         "script": [
             "$temp=$page",
-            "$temp+=[System.Text.Encoding]::GetEncoding('utf-8').GetString($wc.DownloadData('https://hide.maruo.co.jp/software/hmmtakeout.html'))",
+            "$temp+=[System.Text.Encoding]::GetEncoding('utf-8').GetString((Invoke-WebRequest 'https://hide.maruo.co.jp/software/hmmtakeout.html').RawContentStream.ToArray())",
             "$temp=$temp -replace '(?ms)<!--.*?-->',''",
             "return $temp"
         ],
