@@ -72,7 +72,11 @@
     ],
     "post_uninstall": [
         "$sendto=\"$env:USERPROFILE\\AppData\\Roaming\\Microsoft\\Windows\\SendTo\"",
-        "Remove-Item -Path \"$sendto\\秀丸.lnk\""
+        "\"$sendto\\秀丸.lnk\" | ForEach-Object {",
+        "    if (Test-Path $_) {",
+        "        Remove-Item -Path $_",
+        "    }",
+        "}"
     ],
     "checkver": {
         "script": [
