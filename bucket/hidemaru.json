@@ -54,7 +54,7 @@
         "$startup_dir=\"$env:USERPROFILE\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\"",
         "$sendto = @(\"$sendto_dir\\秀丸.lnk\", \"$dir\\Hidemaru.exe\", $dir)",
         "$startup = @(\"$startup_dir\\秀丸エディタ.lnk\", \"$dir\\HmResident.exe\", $dir)",
-        ",$sendto | ForEach-Object {",
+        "$sendto, $startup | ForEach-Object {",
         "    $shortcut = $wsh_shell.CreateShortcut($_[0])",
         "    $shortcut.TargetPath = $_[1]",
         "    $shortcut.WorkingDirectory = $_[2]",
