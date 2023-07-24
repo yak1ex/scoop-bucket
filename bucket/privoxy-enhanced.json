@@ -14,7 +14,7 @@
     ],
     "post_install": [
         "'config.txt', 'default.action', 'default.filter', 'match-all.action', 'trust.txt', 'user.action', 'user.filter' | ForEach-Object {",
-        "    if (Test-Path $dir\\$_.original) {
+        "    if (Test-Path $dir\\$_.original) {",
         "        if ((Get-Content $dir\\$_ -Raw) -eq (Get-Content $dir\\$_.original -Raw)) {",
         "            Remove-Item $dir\\$_.original",
         "        } else {",
