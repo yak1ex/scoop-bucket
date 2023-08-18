@@ -1,4 +1,5 @@
 {
+    "##": "In order to stick calibre-portable, we avoid invoking an installer exe here",
     "version": "6.25.0",
     "description": "Powerful and easy to use e-book manager",
     "homepage": "https://calibre-ebook.com",
