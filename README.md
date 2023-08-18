@@ -39,5 +39,6 @@ scoop install <manifest>
   - leeyes: [Leeyes](http://www3.tokai.or.jp/boxes/leeyes/)
 - https://github.com/ycrack/scoop-ycrack Unlicense
   - bzeditor: [Bz](https://gitlab.com/devill.tamachan/binaryeditorbz) (with modification for admin feature)
-
+- https://github.com/ScoopInstaller/Extras (official) Unlicense
+  - calibre-portable (from calibre to stick calibre-portable w/o invoking installer exe)
 ## TODO
