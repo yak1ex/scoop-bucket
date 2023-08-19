@@ -40,6 +40,6 @@ scoop install <manifest>
 - https://github.com/ycrack/scoop-ycrack Unlicense
   - bzeditor: [Bz](https://gitlab.com/devill.tamachan/binaryeditorbz) (with modification for admin feature)
 - https://github.com/ScoopInstaller/Extras (official) Unlicense
-  - calibre-portable (from calibre to stick calibre-portable w/o invoking installer exe)
+  - calibre-portable (from [calibre](https://calibre-ebook.com/) to stick calibre-portable w/o invoking installer exe)
   - winrar-jp (from [winrar](https://www.rarlab.com/) to point to Japanese version)
 ## TODO
