@@ -1,6 +1,6 @@
 {
     "version": "6.23",
-    "description": "Powerful archive manager",
+    "description": "Powerful archive manager - Japanese version",
     "homepage": "https://rarlab.com/",
     "license": {
         "identifier": "Shareware",
@@ -9,12 +9,12 @@
     "notes": "Set up context menu within settings window.",
     "architecture": {
         "64bit": {
-            "url": "https://www.rarlab.com/rar/winrar-x64-623.exe#/dl.7z",
-            "hash": "3d019e60c0def88892ad89023d2e15133fc940fef140faeeaa414ad38f8ef3bf"
+            "url": "https://www.rarlab.com/rar/winrar-x64-623jp.exe#/dl.7z",
+            "hash": "495cc9e60812dfd37dfaccb04e3f0eb8dad6e3dfc89a11044f2ebdccd262eaf0"
         },
         "32bit": {
-            "url": "https://www.rarlab.com/rar/winrar-x32-623.exe#/dl.7z",
-            "hash": "734861e02b779776fc615aad684a5fc15a7066a0776047d4a64be6857e89307e"
+            "url": "https://www.rarlab.com/rar/winrar-x32-623jp.exe#/dl.7z",
+            "hash": "108ce5ceedde301be149cdf8e7b2a5d9cd0a09243cf02a4263a27cd87ef97850"
         }
     },
     "pre_install": [
@@ -41,10 +41,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://www.rarlab.com/rar/winrar-x64-$cleanVersion.exe#/dl.7z"
+                "url": "https://www.rarlab.com/rar/winrar-x64-$cleanVersionjp.exe#/dl.7z"
             },
             "32bit": {
-                "url": "https://www.rarlab.com/rar/winrar-x32-$cleanVersion.exe#/dl.7z"
+                "url": "https://www.rarlab.com/rar/winrar-x32-$cleanVersionjp.exe#/dl.7z"
             }
         }
     }
