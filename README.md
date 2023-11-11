@@ -25,10 +25,11 @@ scoop install <manifest>
 | amkln | CUI app to create hardlinks/junctions | | http://akt.d.dooo.jp/akt_jnk.html |
 | amksc | CUI app to create shortcuts | | http://akt.d.dooo.jp/akt_jnk.html |
 | cmigemo | C/Migemo | cp932 dictionary is used | https://www.kaoriya.net/software/cmigemo/ |
-| gtk+-bundle | GTK bundle | GTK2 for node-canvas | https://gtk.org/ |
+| gtkplus-bundle | GTK bundle | GTK2 for node-canvas | https://gtk.org/ |
 | hidemaru | Hidemaru Edtitor | with portable kit | https://hide.maruo.co.jp/software/hidemaru.html |
 | keyswap | KeySwap for XP | | http://www.asahi-net.or.jp/~ee7k-nsd/ |
 | libjpeg-turbo | JPEG image codec that uses SIMD instructions | for node-canvas | https://github.com/libjpeg-turbo/libjpeg-turbo |
+| privoxy-enhanced | Privoxy: a non-caching web proxy with filtering | with enhanced patch | https://github.com/yak1ex/privoxy-enhanced/ |
 | yaksetup | YakSetup PS module | my own PS module | https://github.com/yak1ex/configurator/tree/master/bootstrap |
 
 ## Manifests from other buckets
