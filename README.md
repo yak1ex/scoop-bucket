@@ -25,6 +25,7 @@ scoop install <manifest>
 | amkln | CUI app to create hardlinks/junctions | | http://akt.d.dooo.jp/akt_jnk.html |
 | amksc | CUI app to create shortcuts | | http://akt.d.dooo.jp/akt_jnk.html |
 | cmigemo | C/Migemo | cp932 dictionary is used | https://www.kaoriya.net/software/cmigemo/ |
+| firefilecopy | Fire File Copy | No longer developped | https://web.archive.org/web/20171016072246/www.k3.dion.ne.jp:80/~kitt/pc/sw/ffc/ |
 | gtkplus-bundle | GTK bundle | GTK2 for node-canvas | https://gtk.org/ |
 | hidemaru | Hidemaru Edtitor | with portable kit | https://hide.maruo.co.jp/software/hidemaru.html |
 | keyswap | KeySwap for XP | | http://www.asahi-net.or.jp/~ee7k-nsd/ |
