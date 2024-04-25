@@ -44,7 +44,7 @@ scoop install <manifest>
 - https://github.com/ScoopInstaller/Extras (official) Unlicense
   - calibre-portable (from [calibre](https://calibre-ebook.com/) to stick calibre-portable w/o invoking installer exe)
   - winrar-jp (from [winrar](https://www.rarlab.com/) to point to Japanese version)
-- https://github.com/anderlli0053/DEV-tools Unlincense
+- https://github.com/anderlli0053/DEV-tools Unlicense
   - teracopy (from [TeraCopy](http://www.codesector.com/teracopy) to adjust persist files and licenses)
 - https://github.com/Jadeiin/scoop Unlicense
   - stabilitymatrix: [StabilityMatrix](https://lykos.ai/)
