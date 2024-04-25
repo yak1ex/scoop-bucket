@@ -46,5 +46,7 @@ scoop install <manifest>
   - winrar-jp (from [winrar](https://www.rarlab.com/) to point to Japanese version)
 - https://github.com/anderlli0053/DEV-tools Unlincense
   - teracopy (from [TeraCopy](http://www.codesector.com/teracopy) to adjust persist files and licenses)
+- https://github.com/Jadeiin/scoop Unlicense
+  - stabilitymatrix: [StabilityMatrix](https://lykos.ai/)
 
 ## TODO
