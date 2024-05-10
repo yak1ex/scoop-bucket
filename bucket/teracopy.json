@@ -1,5 +1,5 @@
 {
-    "version": "3.17",
+    "version": "4",
     "description": "A renowned file transfer utility, meticulously crafted to enhance and streamline the process of copying and moving files.",
     "homepage": "http://www.codesector.com/teracopy",
     "license": "Freeware|Proprietary",
@@ -20,8 +20,8 @@
             },
             "shortcuts": [
                 [
-                  "TeraCopy.exe",
-                  "TeraCopy"
+                    "TeraCopy.exe",
+                    "TeraCopy"
                 ]
             ]
         },
@@ -37,8 +37,8 @@
             },
             "shortcuts": [
                 [
-                  "Win32\\TeraCopy.exe",
-                  "TeraCopy"
+                    "Win32\\TeraCopy.exe",
+                    "TeraCopy"
                 ]
             ]
         }
