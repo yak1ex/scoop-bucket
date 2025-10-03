@@ -27,9 +27,9 @@ jobs:
       - name: Patch Get-GitChangedFile
         shell: powershell
         working-directory: scoop_core
-        run: if (-NOT (git grep 93b9bae33a88ccde6590c4df3f589f47c58a527e)) {
+        run: if (-NOT (git grep d99ab06d1ddcc1cc9abbb2029a3902e03cf7a211)) {
             git remote add --fetch bintoss https://github.com/BinToss/ScoopInstaller.Scoop.git;
-            git cherry-pick -n --empty drop 93b9bae
+            git cherry-pick -n --empty drop d99ab06
           ;}
       - name: Init Test Suite
         uses: potatoqualitee/psmodulecache@main
@@ -59,9 +59,9 @@ jobs:
       - name: Patch Get-GitChangedFile
         shell: pwsh
         working-directory: scoop_core
-        run: if (!(git grep 93b9bae33a88ccde6590c4df3f589f47c58a527e)) {
+        run: if (!(git grep d99ab06d1ddcc1cc9abbb2029a3902e03cf7a211)) {
             git remote add --fetch bintoss https://github.com/BinToss/ScoopInstaller.Scoop.git;
-            git cherry-pick -n --empty drop 93b9bae
+            git cherry-pick -n --empty drop d99ab06
           ;}
       - name: Init Test Suite
         uses: potatoqualitee/psmodulecache@main
