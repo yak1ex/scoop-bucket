@@ -48,5 +48,7 @@ scoop install <manifest>
   - teracopy (from [TeraCopy](http://www.codesector.com/teracopy) to adjust persist files and licenses)
 - https://github.com/Jadeiin/scoop Unlicense
   - stabilitymatrix: [StabilityMatrix](https://lykos.ai/)
+- https://github.com/ScoopInstaller/Main (official) Unlicense
+  - ollama-rocm (from [ollama](https://ollama.com/) to add ROCm support)
 
 ## TODO
