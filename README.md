@@ -49,6 +49,8 @@ scoop install <manifest>
 - https://github.com/Jadeiin/scoop Unlicense
   - stabilitymatrix: [StabilityMatrix](https://lykos.ai/)
 - https://github.com/ScoopInstaller/Main (official) Unlicense
-  - ollama-rocm (from [ollama](https://ollama.com/) to add ROCm support)
-
-## TODO
+  - ollama-rocm: (from [ollama](https://ollama.com/) to add ROCm support)
+- https://github.com/ScoopInstaller/Versions (official) Unlicense
+  - llama.cpp-hip: (from [llama.cpp](https://github.com/ggml-org/llama.cpp)-hip-gfx*j to unify GPU generations)
+- https://github.com/chawyehsu/dorado Unlicense
+  - lmstudio: [LM Studio](https://lmstudio.ai/) (with fix for autoupdate)
