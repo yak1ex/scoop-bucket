@@ -1,6 +1,7 @@
 {
     "version": "b7601",
     "description": "Inference of LLaMA model in pure C/C++ (HIP version for AMD GPUs).",
+    "notes": "Deprecated. Use versions/llama.cpp-hip-radeon instead.",
     "homepage": "https://github.com/ggml-org/llama.cpp",
     "license": "MIT",
     "architecture": {
