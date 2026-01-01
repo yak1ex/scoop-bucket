@@ -1,6 +1,7 @@
 {
     "version": "3.0.1",
     "description": "a JPEG image codec that uses SIMD instructions",
+    "notes": "Deprecated. Use main/libjpeg-turbo instead.",
     "homepage": "https://github.com/libjpeg-turbo/libjpeg-turbo",
     "license": "IJG, BSD-3-Clause, Zlib",
     "architecture": {
