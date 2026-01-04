@@ -9,7 +9,7 @@
     "architecture": {
         "64bit": {
             "url": "https://installers.lmstudio.ai/win32/x64/0.3.36-1/LM-Studio-0.3.36-1-x64.exe#/dl.7z",
-            "hash": "4fbed1f623e12301f505971443a4444c9903679c5fa353e38e9d705d7926270e",
+            "hash": "24ad4d11d66d592e1b84eb7234e4dae34f113a4e626edb8bcc36b232a0ffa48c",
             "installer": {
                 "script": [
                     "Remove-Item \"$dir\\*\" -Exclude \"app-64.7z\"",
@@ -20,7 +20,7 @@
         },
         "arm64": {
             "url": "https://installers.lmstudio.ai/win32/arm64/0.3.36-1/LM-Studio-0.3.36-1-arm64.exe#/dl.7z",
-            "hash": "f3df3be1236ce538ab2778b556cd450c2c047575f19328dfb0cd68aec6f17d2c",
+            "hash": "c22b5bf589dc8439d8cafdb0b8ee17675df9e7e5635f7665b6cf44e3e4cce772",
             "installer": {
                 "script": [
                     "Remove-Item \"$dir\\*\" -Exclude \"app-arm64.7z\"",
