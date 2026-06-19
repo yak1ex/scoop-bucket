@@ -1,11 +1,11 @@
 {
-    "version": "4",
+    "version": "4.0",
     "description": "A renowned file transfer utility, meticulously crafted to enhance and streamline the process of copying and moving files.",
     "homepage": "http://www.codesector.com/teracopy",
     "license": "Freeware|Proprietary",
     "notes": "",
     "url": "https://www.codesector.com/files/teracopy.zip",
-    "hash": "73747a751c265e75c96ae93788484f12cedb7b309c76e7ebf409e5d7d0bdcc03",
+    "hash": "a056f292e4a8df8abd662ee7f42873fc239578585cdde40fa36156baabbeb48e",
     "extract_dir": "TeraCopy",
     "architecture": {
         "64bit": {
