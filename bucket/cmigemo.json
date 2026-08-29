@@ -1,6 +1,6 @@
 {
     "##": "This file is a template. Fill the blanks and add or remove fields as necessary.",
-    "version": "20110227",
+    "version": "64",
     "description": "A C libarary for incremental Japanese search by Romaji input",
     "homepage": "https://www.kaoriya.net/software/cmigemo/",
     "license": "MIT|https://github.com/koron/cmigemo/blob/master/doc/LICENSE_j.txt",
