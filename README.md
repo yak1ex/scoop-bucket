@@ -31,6 +31,7 @@ scoop install <manifest>
 | keyswap | KeySwap for XP | | http://www.asahi-net.or.jp/~ee7k-nsd/ |
 | openchamber | Desktop and web interface for OpenCode AI agent | | https://openchamber.dev/ |
 | privoxy-enhanced | Privoxy: a non-caching web proxy with filtering | with enhanced patch | https://github.com/yak1ex/privoxy-enhanced/ |
+| strata-terminal | Strata Terminal - CLI for local LLM inference | | https://github.com/Niko1221/Strata/ |
 | yaksetup | YakSetup PS module | my own PS module | https://github.com/yak1ex/configurator/tree/master/bootstrap |
 
 ## Manifests from other buckets
