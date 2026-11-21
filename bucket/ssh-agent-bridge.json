@@ -1,0 +1,15 @@
+{
+    "version": "1.1",
+    "description": "Bridge between multiple SSH agent protocols",
+    "homepage": "https://github.com/amurzeau/ssh-agent-bridge",
+    "license": "MIT",
+    "url": "https://github.com/amurzeau/ssh-agent-bridge/releases/download/v1.1/ssh-agent-bridge.exe",
+    "hash": "599073103EE799C36ED27876FF652CD117819BD93A6B9E2608F4DAA8A9435460",
+    "bin": "ssh-agent-bridge.exe",
+    "checkver": {
+        "github": "https://github.com/amurzeau/ssh-agent-bridge"
+    },
+    "autoupdate": {
+        "url": "https://github.com/amurzeau/ssh-agent-bridge/releases/download/v$version/ssh-agent-bridge.exe"
+    }
+}
